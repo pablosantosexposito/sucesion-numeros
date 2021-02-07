@@ -17,7 +17,7 @@ public class Main {
 
 		fillCentralNumbers();
 
-		System.out.println(CENTRALNUMBERS);
+		
 
 	}
 
